@@ -1,4 +1,4 @@
-# 🚗 EV Market Intelligence & Analytics System
+# 🚗 Global-EV-Market-Analysis-using-Power-BI
 
 ## 📌 Overview
 The **EV Market Intelligence & Analytics System** is an end-to-end business intelligence solution built using Power BI to analyze trends, performance, and market dynamics within the global electric vehicle (EV) industry. The project transforms raw EV market data into a structured analytical model and interactive dashboards that support executive decision-making and strategic analysis.
